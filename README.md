@@ -1,11 +1,11 @@
-一种基于全局自注意和多尺度融合的双编码器网络
+ MSSA-Net: A novel multi-scale feature fusion and global self-attention network for lesion segmentation. Concurrency and Computation: Practice and Experience
 
-网络结构图：img.pdf
+The architecture of the proposed MSSA-Net: img.pdf
 
-网络代码：model.py
+Network model：model.py
 
-数据增强：data.py
+Data augmentation：data.py
 
-模型评估：predict.py
+Model testing：predict.py
 
-模型训练：train.py
+Model training：train.py
