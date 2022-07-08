@@ -2,10 +2,10 @@
 
 The architecture of MSSA-Net: img.pdf
 
-Network model：model.py
+Network model: model.py
 
-Data augmentation：data.py
+Data augmentation: data.py
 
-Model testing：predict.py
+Model testing: predict.py
 
-Model training：train.py
+Model training: train.py
